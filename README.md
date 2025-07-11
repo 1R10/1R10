@@ -15,4 +15,5 @@
   <a href = "mailto:ryanguilherme2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ![1R10's GitHub stats](https://github-readme-stats.vercel.app/api?username=1R10&show_icons=true&theme=transparent)
+  ![Snake animation](https://github.com/1R10/1R10/blob/output/github-contribution-grid-snake.svg)
 </div>
